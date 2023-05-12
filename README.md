@@ -1,4 +1,4 @@
-<img src="./img/banner.png" height="50%" width="50%" alt="Unform" />
+<img src="./img/banner.png" height="100%" width="50%" alt="Unform" />
 
 # SoulPrint
 
