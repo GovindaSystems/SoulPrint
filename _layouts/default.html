@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+
+    <div class="mermaid">
+        graph TD;
+            A-->B;
+            A-->C;
+            B-->D;
+            C-->D;
+    </div>
+
+    <div class="mermaid">
+        mindmap
+        root))Self((
+          ::icon(fa fa-person)
+          ((Ego))
+          :::urgent large
+              {{Consciente}}
+                  [Personalidade]
+                  ::icon(fa fa-theater-masks)
+                      Simpático
+                      Extrovertido
+                      Focado
+                      Objetivo
+                      Sincero
+                      Verdadeiro
+                  [Valores]
+                      Amor próprio
+                      Ética
+                      Moral
+                      Fé
+                      Generosidade
+                      Auto reflexão
+                      Compaixão
+              {{Inconsciente pessoal}}
+                  [Complexos]
+                  ::icon(fas fa-yin-yang)
+                      Abandono
+                      ::icon(far fa-play-circle)
+                          ((Arquétipo))
+                          {{Sintoma}}
+                              Vício (Fumar maconha de forma compulsiva)
+                              Mudança de humor
+                              Tendencias acumulativas
+                          {{Sentimento}}
+                              Carencia excessiva
+                              Angustia
+                              Necessidade de estar sempre com minha parceira
+                      Mártir
+                      ::icon(far fa-play-circle)
+                          ((Arquétipo))
+                          {{Sintoma}}
+                              Trabalhar muito e sem descanço
+                              Não cuidar de si mesmo propositalmente para mostrar o quanto me dedico a minha familia
+                          {{Sentimento}}
+                              Solidão
+                              Falta de convivio com os meus familiares
+                      Júlio César
+                      ::icon(far fa-play-circle)
+                          ((Arquétipo))
+                          {{Sintoma}}
+                              Necessidade de estar no controle de tudo
+                              Necessidade de saber de tudo que está em minha volta
+                              Necessidade de saber o que todos pensam
+                          {{Sentimento}}
+                      Don Juan
+                          ((Arquétipo))
+                          {{Sintoma}}
+                              Vício em Tinder
+                              Vício em Conquistar outras mulheres
+                              Instinto de caça/conquista
+                              Compulsão sexual
+                          {{Sentimento}}
+                              Insatisfação
+                              Decepção
+                              Solidão
+                              Necessidade de se reconciliar com o sexo oposto
+                              Necessidade de traser felicidade para o sexo oposto se doar
+                      Superioridade
+                          ((Arquétipo))
+                          {{Sintoma}}
+                      Perseguição
+                          ((Arquétipo))
+                          {{Sintoma}}
+                  [Anima]
+                  ::icon(fas fa-venus)
+                       ((Arquétipo))
+                          Manifestação
+                              {{Bruxa}}
+                                  Insegura
+                                  Possessiva
+                                  Controladora
+                          Projeção
+                              {{Sereia}}
+                                  Atração pelo Mistério
+                                  Fascínio pelo Inacessível
+                                  Medo do Abandono
+                                  Idealização
+                                  Desejo de Transformação 
+                          {{Maria}}
+                              ::icon(fas fa-star)
+                          {{Mãe}}
+                          {{Amante}}
+                  [Sombra]
+                  ::icon(fa fa-skull)
+                      Falso
+                      Manipulador
+                      Calculista
+                      Controlador
+                  [Traumas]
+                      Sequência de abandonos
+                          ["`- 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
+                          5 anos: Diversas vezes acorde anoite e não tinha ninguem em casa, fiquei em estado de desespero, apenas consegui fazer algo após me acalmar e ver que eu podia pular a janela e ir para a casa da vizinha`"]
+                              Impacto: 9
+                          ["`+ 5 anos: Morei com a minha avó, não sintia mais a ausencia dos meus pais`"]
+                              Impacto: 7
+                      ["` ** + 7 anos: Vi a minha mãe e meu Padrasto tranzando** `"]
+                          Impacto: 5
+                      ["` ** + 8 anos: Minha prima tentou fazer sexo comigo, não aconteceu pois tinha medo de engravida-la ** `"]
+                          Impacto: 2
+                      ["` ** + 8 anos: Tive que aprenser sozinho a ir para a escola no centro da cidade, diversas vezes quase fui atropelado ** `"]
+                          Impacto: 3                    
+                      ["` ** + 8 anos: No nascimento da minha irmã fiquei 3 dias sozinho em casa ** `"]
+                          Impacto: 5
+                      ["` ** + 9 anos: Vi meu padrasto bater na minha mãe diversas vezes ** `"]
+                          Impacto: 3
+                      ["` ** + 9 anos: Meu padrasto colocava minha mãe contra mim ** `"]
+                          Impacto: 3
+                      ["` ** + 10 anos: Minha mãe chegava em casa diversas vezes alcolizada ** `"]
+                          Impacto: 4
+                      ["` ** + 10 anos: Minha mãe chegava em casa diversas vezes alcolizada ** `"]
+                          Impacto: 4
+    </div>
+    
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      </script>
+    <script>mermaid.initialize({startOnLoad:true});</script>    
+  </body>
+</html>
