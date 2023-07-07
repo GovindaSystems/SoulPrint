@@ -1,22 +1,48 @@
 
 
 
+
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+  root))Self((
+    ::icon(fa fa-person)
+    ((Ego))
+        {{Consciente}}
+            [Presonalizada]
+            ::icon(fa fa-mask)
+                Simpático
+                Extrovertido
+                Focado
+                Objetivo
+                Sincero
+                Verdadeiro
+        {{Inconsciente pessoal}}
+            [Complexos]
+            ::icon(fas fa-yin-yang)
+                Abandono
+                    ((Arquetipo))
+                    {{Sintoma}}
+                Mártir
+                    ((Arquetipo))
+                    {{Sintoma}}
+                Don Juan
+                    ((Arquetipo))
+                    {{Sintoma}}
+                Superioridade
+                    ((Arquetipo))
+                    {{Sintoma}}
+                Perseguição
+                    ((Arquetipo))
+                    {{Sintoma}}
+
+            [Sombra]
+            ::icon(fa fa-skull)
+                Falso
+                Manipulador
+                Calculista
+        
+            
 ```
+
+https://mermaid.js.org/syntax/mindmap.html
+
