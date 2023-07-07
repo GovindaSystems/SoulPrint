@@ -25,6 +25,11 @@ mindmap
                 Mártir
                     ((Arquetipo))
                     {{Sintoma}}
+                        Trabalhar muito e sem descanço
+                        Não cuidar de si mesmo propositalmente para mostrar o quanto me dedico a minha familia
+                    {{Sentimento}}
+                        Solidão
+                        Falta de convivio com os meus familiares
                 Don Juan
                     ((Arquetipo))
                     {{Sintoma}}
@@ -34,14 +39,11 @@ mindmap
                 Perseguição
                     ((Arquetipo))
                     {{Sintoma}}
-
             [Sombra]
             ::icon(fa fa-skull)
                 Falso
                 Manipulador
                 Calculista
-        
-            
 ```
 
 https://mermaid.js.org/syntax/mindmap.html
