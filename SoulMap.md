@@ -24,6 +24,7 @@ mindmap
                 Fé
                 Generosidade
                 Auto reflexão
+                Compaixão
         {{Inconsciente pessoal}}
             [Complexos]
             ::icon(fas fa-yin-yang)
@@ -100,11 +101,12 @@ mindmap
                 Calculista
                 Controlador
             [Traumas]
-                ["` **Sequência de abandonos**
-                - 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
-                5 anos: Diversas vezes acorde anoite e não tinha ninguem em casa, fiquei em estado de desespero, apenas consegui fazer algo após me acalmar e ver que eu podia pular a janela e ir para a casa da vizinha 
-                + 5 anos: Morei com a minha avó, não sintia mais a ausencia dos meus pais`"]
-                    Impacto: 9
+                Sequência de abandonos
+                    ["`- 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
+                    5 anos: Diversas vezes acorde anoite e não tinha ninguem em casa, fiquei em estado de desespero, apenas consegui fazer algo após me acalmar e ver que eu podia pular a janela e ir para a casa da vizinha`"]
+                        Impacto: 9
+                    ["`+ 5 anos: Morei com a minha avó, não sintia mais a ausencia dos meus pais`"]
+                        Impacto: 7
                 ["` ** + 7 anos: Vi a minha mãe e meu Padrasto tranzando** `"]
                     Impacto: 5
                 ["` ** + 8 anos: Minha prima tentou fazer sexo comigo, não aconteceu pois tinha medo de engravida-la ** `"]
