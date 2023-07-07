@@ -7,6 +7,7 @@ mindmap
   root))Self((
     ::icon(fa fa-person)
     ((Ego))
+    :::urgent large
         {{Consciente}}
             [Presonalizada]
             ::icon(fa fa-theater-masks)
@@ -32,6 +33,10 @@ mindmap
                     {{Sentimento}}
                         Solidão
                         Falta de convivio com os meus familiares
+                Júlio César
+                    ((Arquétipo))
+                    {{Sintoma}}
+                    {{Sentimento}}
                 Don Juan
                     ((Arquétipo))
                     {{Sintoma}}
@@ -42,8 +47,9 @@ mindmap
                     {{Sentimento}}
                         Insatisfação
                         Decepção
+                        Solidão
                         Necessidade de se reconciliar com o sexo oposto
-                        Necessidade de traser felicidade para o sexo oposto, doar-se
+                        Necessidade de traser felicidade para o sexo oposto se doar
                 Superioridade
                     ((Arquétipo))
                     {{Sintoma}}
@@ -51,12 +57,31 @@ mindmap
                     ((Arquétipo))
                     {{Sintoma}}
             [Anima]
-            ::icon(fas fa-female)
+            ::icon(fas fa-venus)
+                 ((Arquétipo))
+                    Manifestação
+                        {{Bruxa}}
+                            Insegura
+                            Possessiva
+                            Controladora
+                    Projeção
+                        {{Sereia}}
+                            Atração pelo Mistério
+                            Fascínio pelo Inacessível
+                            Medo do Abandono
+                            Idealização
+                            Desejo de Transformação 
+                    {{Maria}}
+                        ::icon(fas fa-star)
+                    {{Mãe}}
+                    {{Amante}}
             [Sombra]
             ::icon(fa fa-skull)
                 Falso
                 Manipulador
                 Calculista
+                Controlador
+                
 ```
 
 https://mermaid.js.org/syntax/mindmap.html
