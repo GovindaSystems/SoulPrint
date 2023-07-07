@@ -9,7 +9,7 @@ mindmap
     ((Ego))
         {{Consciente}}
             [Presonalizada]
-            ::icon(fa fa-mask)
+            ::icon(fa fa-theater-masks)
                 Simpático
                 Extrovertido
                 Focado
@@ -20,10 +20,12 @@ mindmap
             [Complexos]
             ::icon(fas fa-yin-yang)
                 Abandono
-                    ((Arquetipo))
+                    ((Arquétipo))
                     {{Sintoma}}
+                        Vício (Fumar maconha de forma compulsiva)
+                    {{Sentimento}}
                 Mártir
-                    ((Arquetipo))
+                    ((Arquétipo))
                     {{Sintoma}}
                         Trabalhar muito e sem descanço
                         Não cuidar de si mesmo propositalmente para mostrar o quanto me dedico a minha familia
@@ -31,14 +33,25 @@ mindmap
                         Solidão
                         Falta de convivio com os meus familiares
                 Don Juan
-                    ((Arquetipo))
+                    ((Arquétipo))
                     {{Sintoma}}
+                        Vício em Tinder
+                        Vício em Conquistar outras mulheres
+                        Instinto de caça/conquista
+                        Compulsão sexual
+                    {{Sentimento}}
+                        Insatisfação
+                        Decepção
+                        Necessidade de se reconciliar com o sexo oposto
+                        Necessidade de traser felicidade para o sexo oposto, doar-se
                 Superioridade
-                    ((Arquetipo))
+                    ((Arquétipo))
                     {{Sintoma}}
                 Perseguição
-                    ((Arquetipo))
+                    ((Arquétipo))
                     {{Sintoma}}
+            [Anima]
+            ::icon(fas fa-female)
             [Sombra]
             ::icon(fa fa-skull)
                 Falso
