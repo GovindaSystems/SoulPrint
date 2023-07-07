@@ -17,6 +17,13 @@ mindmap
                 Objetivo
                 Sincero
                 Verdadeiro
+            [Valores]
+                Amor próprio
+                Ética
+                Moral
+                Fé
+                Generosidade
+                Auto reflexão
         {{Inconsciente pessoal}}
             [Complexos]
             ::icon(fas fa-yin-yang)
@@ -25,7 +32,12 @@ mindmap
                     ((Arquétipo))
                     {{Sintoma}}
                         Vício (Fumar maconha de forma compulsiva)
+                        Mudança de humor
+                        Tendencias acumulativas
                     {{Sentimento}}
+                        Carencia excessiva
+                        Angustia
+                        Necessidade de estar sempre com minha parceira
                 Mártir
                 ::icon(far fa-play-circle)
                     ((Arquétipo))
@@ -87,8 +99,33 @@ mindmap
                 Manipulador
                 Calculista
                 Controlador
+            [Traumas]
+                ["` **Sequência de abandonos**
+                - 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
+                5 anos: Diversas vezes acorde anoite e não tinha ninguem em casa, fiquei em estado de desespero, apenas consegui fazer algo após me acalmar e ver que eu podia pular a janela e ir para a casa da vizinha 
+                + 5 anos: Morei com a minha avó, não sintia mais a ausencia dos meus pais`"]
+                    Impacto: 9
+                ["` ** + 7 anos: Vi a minha mãe e meu Padrasto tranzando** `"]
+                    Impacto: 5
+                ["` ** + 8 anos: Minha prima tentou fazer sexo comigo, não aconteceu pois tinha medo de engravida-la ** `"]
+                    Impacto: 2
+                ["` ** + 8 anos: Tive que aprenser sozinho a ir para a escola no centro da cidade, diversas vezes quase fui atropelado ** `"]
+                    Impacto: 3                    
+                ["` ** + 8 anos: No nascimento da minha irmã fiquei 3 dias sozinho em casa ** `"]
+                    Impacto: 5
+                ["` ** + 9 anos: Vi meu padrasto bater na minha mãe diversas vezes ** `"]
+                    Impacto: 3
+                ["` ** + 9 anos: Meu padrasto colocava minha mãe contra mim ** `"]
+                    Impacto: 3
+                ["` ** + 10 anos: Minha mãe chegava em casa diversas vezes alcolizada ** `"]
+                    Impacto: 4
+                ["` ** + 10 anos: Minha mãe chegava em casa diversas vezes alcolizada ** `"]
+                    Impacto: 4
 
 ```
 
 https://mermaid.js.org/syntax/mindmap.html
 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+</script>
