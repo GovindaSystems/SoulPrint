@@ -9,7 +9,7 @@ mindmap
     ((Ego))
     :::urgent large
         {{Consciente}}
-            [Presonalizada]
+            [Personalidade]
             ::icon(fa fa-theater-masks)
                 Simpático
                 Extrovertido
@@ -21,11 +21,13 @@ mindmap
             [Complexos]
             ::icon(fas fa-yin-yang)
                 Abandono
+                ::icon(far fa-play-circle)
                     ((Arquétipo))
                     {{Sintoma}}
                         Vício (Fumar maconha de forma compulsiva)
                     {{Sentimento}}
                 Mártir
+                ::icon(far fa-play-circle)
                     ((Arquétipo))
                     {{Sintoma}}
                         Trabalhar muito e sem descanço
@@ -34,8 +36,12 @@ mindmap
                         Solidão
                         Falta de convivio com os meus familiares
                 Júlio César
+                ::icon(far fa-play-circle)
                     ((Arquétipo))
                     {{Sintoma}}
+                        Necessidade de estar no controle de tudo
+                        Necessidade de saber de tudo que está em minha volta
+                        Necessidade de saber o que todos pensam
                     {{Sentimento}}
                 Don Juan
                     ((Arquétipo))
@@ -81,7 +87,7 @@ mindmap
                 Manipulador
                 Calculista
                 Controlador
-                
+
 ```
 
 https://mermaid.js.org/syntax/mindmap.html
