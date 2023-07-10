@@ -108,8 +108,9 @@ mindmap
                     Relacionar-se com outras mulheres
                     Parar de trabalhar
                     Viver sozinha e isolada
+                    Vingar-se das traições
             [Traumas]
-                Sequência de abandonos
+                ((Sequência de abandonos))
                     ["`- 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
                     5 anos: Diversas vezes acorde anoite e não tinha ninguem em casa, fiquei em estado de desespero, apenas consegui fazer algo após me acalmar e ver que eu podia pular a janela e ir para a casa da vizinha`"]
                         Impacto: 9
