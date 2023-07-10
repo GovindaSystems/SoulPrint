@@ -96,10 +96,18 @@ mindmap
                     {{Amante}}
             [Sombra]
             ::icon(fa fa-skull)
-                Falso
-                Manipulador
-                Calculista
-                Controlador
+                ((Características))
+                    Falso
+                    Manipulador
+                    Calculista
+                    Controlador
+                ((Desejo))
+                    Se separar da minha esposa
+                    Fazer a minha esposa sofrer
+                    Abandonar os meus filhos
+                    Relacionar-se com outras mulheres
+                    Parar de trabalhar
+                    Viver sozinha e isolada
             [Traumas]
                 Sequência de abandonos
                     ["`- 5 anos: Diversas idas para a casa da minha avó e muito tempo sem ver meus pais
